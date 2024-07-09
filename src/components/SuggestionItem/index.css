@@ -1,0 +1,12 @@
+.button,
+.arrow {
+  background-color: transparent;
+  width: 25px;
+  height: 25px;
+  border-style: none;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+}
